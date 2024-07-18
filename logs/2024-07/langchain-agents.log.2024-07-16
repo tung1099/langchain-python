@@ -1,0 +1,38 @@
+2024-07-16 20:29:21,785 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-16 20:31:06,935 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-16 20:35:34,226 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-16 20:35:49,023 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-16 20:36:18,830 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-16 20:37:34,126 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-16 20:43:54,761 |INFO| langchain_service.py.<module> - MainThread: question: None
+2024-07-16 20:47:39,587 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-16 20:47:40,507 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-16 20:50:31,761 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-16 20:50:33,235 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-16 20:51:52,897 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-16 20:51:53,813 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-16 20:51:56,426 |INFO| posthog.py.__init__ - MainThread: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-07-16 20:52:54,946 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-16 20:53:52,080 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-16 20:53:53,032 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-16 20:53:55,239 |INFO| posthog.py.__init__ - MainThread: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-07-16 20:53:56,564 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-16 20:54:38,577 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-16 20:54:39,498 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-16 20:54:42,119 |INFO| posthog.py.__init__ - MainThread: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-07-16 20:54:43,524 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-16 20:54:56,588 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-16 20:54:57,226 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-16 20:54:59,282 |INFO| posthog.py.__init__ - MainThread: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-07-16 20:55:00,666 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-16 20:56:02,056 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-16 20:56:02,794 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-16 20:56:05,602 |INFO| posthog.py.__init__ - MainThread: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-07-16 20:56:07,347 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-16 20:59:58,609 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-16 20:59:59,170 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-16 21:00:01,226 |INFO| posthog.py.__init__ - MainThread: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-07-16 21:00:02,559 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-16 21:25:02,209 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-16 21:26:09,083 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-16 21:26:49,347 |INFO| langchain_service.py.<module> - MainThread: question: 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

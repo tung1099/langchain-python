@@ -1,0 +1,81 @@
+2024-07-16 20:29:21,785 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-16 20:31:06,935 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-16 20:35:34,226 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-16 20:35:49,023 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-16 20:36:18,830 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-16 20:37:34,126 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-16 20:43:54,761 |INFO| langchain_service.py.<module> - MainThread: question: None
+2024-07-16 20:47:39,587 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-16 20:47:40,507 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-16 20:50:31,761 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-16 20:50:33,235 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-16 20:51:52,897 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-16 20:51:53,813 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-16 20:51:56,426 |INFO| posthog.py.__init__ - MainThread: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-07-16 20:52:54,946 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-16 20:53:52,080 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-16 20:53:53,032 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-16 20:53:55,239 |INFO| posthog.py.__init__ - MainThread: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-07-16 20:53:56,564 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-16 20:54:38,577 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-16 20:54:39,498 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-16 20:54:42,119 |INFO| posthog.py.__init__ - MainThread: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-07-16 20:54:43,524 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-16 20:54:56,588 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-16 20:54:57,226 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-16 20:54:59,282 |INFO| posthog.py.__init__ - MainThread: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-07-16 20:55:00,666 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-16 20:56:02,056 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-16 20:56:02,794 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-16 20:56:05,602 |INFO| posthog.py.__init__ - MainThread: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-07-16 20:56:07,347 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-16 20:59:58,609 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-16 20:59:59,170 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-16 21:00:01,226 |INFO| posthog.py.__init__ - MainThread: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-07-16 21:00:02,559 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-16 21:25:02,209 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-16 21:26:09,083 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-16 21:26:49,347 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-18 20:46:47,824 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-18 20:49:02,518 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-18 20:49:03,109 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-18 20:49:03,110 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-18 20:51:05,202 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-18 20:51:05,204 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686//chatbot/langchain/agents?prompt=B%E1%BA%A1n%20l%C3%A0%20tr%E1%BB%A3%20l%C3%BD%20%E1%BA%A3o%20th%C3%A2n%20thi%E1%BB%87n&question=Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc%20Vi%E1%BB%87t%20Nam%20l%C3%A0%20ai%20
+2024-07-18 20:51:35,144 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-18 20:51:35,145 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686//chatbot/langchain/agents?question=Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc%20Vi%E1%BB%87t%20Nam%20l%C3%A0%20ai%20&prompt=B%E1%BA%A1n%20l%C3%A0%20tr%E1%BB%A3%20l%C3%BD%20%E1%BA%A3o%20th%C3%A2n%20thi%E1%BB%87n
+2024-07-18 21:11:36,193 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-18 21:11:36,193 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/chatbot/langchain/agents?prompt=B%E1%BA%A1n%20l%C3%A0%20tr%E1%BB%A3%20l%C3%BD%20%E1%BA%A3o%20th%C3%A2n%20thi%E1%BB%87n&question=Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc%20Vi%E1%BB%87t%20Nam%20l%C3%A0%20ai%20
+2024-07-18 21:11:40,499 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-18 21:14:06,603 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-18 21:14:07,103 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-18 21:14:07,103 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-18 21:14:56,534 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-18 21:14:56,534 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/langchain-agent?question=Gi%C3%A1%20v%C3%A0ng%20h%C3%B4m%20nay%20
+2024-07-18 21:14:56,539 |INFO| main.py.langchain_agent - MainThread: question: Giá vàng hôm nay 
+2024-07-18 21:16:38,975 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-18 21:17:23,301 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-18 21:18:01,860 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-18 21:18:04,163 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-18 21:18:04,163 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-18 21:18:09,739 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-18 21:18:09,740 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/langchain-agent?question=Gi%C3%A1%20v%C3%A0ng%20h%C3%B4m%20nay%20
+2024-07-18 21:18:09,741 |INFO| main.py.langchainAgent - MainThread: question: Giá vàng hôm nay 
+2024-07-18 21:18:13,774 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-18 21:18:17,759 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-18 21:18:56,910 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-18 21:18:56,911 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/langchain-agent?question=th%E1%BB%9Di%20ti%E1%BA%BFt%20H%C3%A0%20N%E1%BB%99i%20h%C3%B4m%20nay%20
+2024-07-18 21:18:59,232 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-18 21:19:05,190 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
