@@ -79,3 +79,497 @@
 2024-07-18 21:18:56,911 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/langchain-agent?question=th%E1%BB%9Di%20ti%E1%BA%BFt%20H%C3%A0%20N%E1%BB%99i%20h%C3%B4m%20nay%20
 2024-07-18 21:18:59,232 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 2024-07-18 21:19:05,190 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-18 21:29:22,382 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-18 21:29:25,560 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-18 21:29:25,560 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-18 21:29:27,103 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-18 21:29:27,104 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/langchain-agent?question=th%E1%BB%9Di%20ti%E1%BA%BFt%20H%C3%A0%20N%E1%BB%99i%20h%C3%B4m%20nay%20
+2024-07-18 21:29:28,809 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-18 21:29:33,904 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-18 21:54:28,384 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-18 21:54:28,385 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/chatbot/langchain/agents?prompt=B%E1%BA%A1n%20l%C3%A0%20tr%E1%BB%A3%20l%C3%BD%20%E1%BA%A3o%20th%C3%A2n%20thi%E1%BB%87n&question=Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc%20Vi%E1%BB%87t%20Nam%20l%C3%A0%20ai%20
+2024-07-18 21:54:32,593 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-18 21:54:32,593 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/langchain-agent?question=Ch%E1%BB%A7%20tich%20n%C6%B0%E1%BB%9Bc%20Vi%E1%BB%87t%20Nam%20hi%E1%BB%87n%20nay%20
+2024-07-18 21:54:33,853 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-18 21:54:34,057 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-18 21:54:39,587 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-18 21:55:11,771 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-18 21:55:11,772 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/langchain-agent?question=Gi%C3%A1%20v%C3%A0ng%20h%C3%B4m%20nay%20
+2024-07-18 21:55:11,773 |INFO| main.py.langchainAgent - MainThread: question: Giá vàng hôm nay 
+2024-07-18 21:55:13,174 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-18 21:55:17,167 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-22 20:00:12,063 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-22 20:00:16,686 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-22 20:00:16,686 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-22 20:00:49,086 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-22 20:00:49,088 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/langchain-agent?question=Gi%C3%A1%20v%C3%A0ng%20h%C3%B4m%20nay
+2024-07-22 20:00:49,090 |INFO| main.py.langchainAgent - MainThread: question: Giá vàng hôm nay
+2024-07-22 20:00:50,997 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-22 20:00:56,368 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-22 20:01:36,977 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-22 20:01:36,978 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/langchain-agent?question=d%E1%BB%B1%20b%C3%A1o%20th%E1%BB%9Di%20ti%E1%BA%BFt%20H%C3%A0%20N%E1%BB%99i%20ng%C3%A0y%20mai%20
+2024-07-22 20:01:38,300 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-22 20:01:42,296 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-22 20:03:45,282 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-22 20:03:46,038 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-22 20:04:50,055 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-22 20:04:50,718 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-22 20:04:53,345 |INFO| posthog.py.__init__ - MainThread: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-07-22 20:04:55,217 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-22 20:05:50,881 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-22 20:05:51,613 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-22 20:05:53,615 |INFO| posthog.py.__init__ - MainThread: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-07-22 20:05:55,229 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-22 20:07:42,158 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-22 20:07:42,927 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-22 20:07:45,606 |INFO| posthog.py.__init__ - MainThread: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-07-22 20:07:47,201 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-22 20:10:38,837 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-22 20:10:39,554 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-22 20:10:42,006 |INFO| posthog.py.__init__ - MainThread: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-07-22 20:10:43,672 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-22 20:11:01,034 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-22 20:11:01,726 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-22 20:11:03,881 |INFO| posthog.py.__init__ - MainThread: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-07-22 20:11:05,341 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-22 20:13:54,195 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-22 20:13:54,980 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-22 20:13:58,993 |INFO| posthog.py.__init__ - MainThread: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-07-22 20:14:00,287 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-22 20:14:17,757 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-22 20:14:18,462 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-22 20:14:19,768 |INFO| langchain_rag.py.<module> - MainThread: Documents loaded successfully.
+2024-07-22 20:14:19,771 |INFO| langchain_rag.py.<module> - MainThread: Documents split into 66 chunks.
+2024-07-22 20:14:20,771 |INFO| posthog.py.__init__ - MainThread: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-07-22 20:14:22,100 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-22 20:17:07,954 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-22 20:17:08,687 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-22 20:17:09,692 |INFO| langchain_rag.py.<module> - MainThread: Chat model initialized.
+2024-07-22 20:17:10,050 |INFO| langchain_rag.py.<module> - MainThread: Documents loaded successfully.
+2024-07-22 20:17:10,052 |INFO| langchain_rag.py.<module> - MainThread: Documents split into 66 chunks.
+2024-07-22 20:17:11,209 |INFO| posthog.py.__init__ - MainThread: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-07-22 20:17:30,105 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-22 20:17:45,493 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-22 20:17:46,213 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-22 20:17:46,893 |INFO| langchain_rag.py.<module> - MainThread: Chat model initialized.
+2024-07-22 20:17:47,263 |INFO| langchain_rag.py.<module> - MainThread: Documents loaded successfully.
+2024-07-22 20:17:47,267 |INFO| langchain_rag.py.<module> - MainThread: Documents split into 66 chunks.
+2024-07-22 20:17:48,197 |INFO| posthog.py.__init__ - MainThread: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-07-22 20:17:49,623 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-22 20:22:12,129 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-22 20:22:12,935 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-22 20:22:15,370 |INFO| posthog.py.__init__ - MainThread: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-07-22 20:22:17,121 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-22 20:22:59,137 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-22 20:23:02,314 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-22 20:23:02,314 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-22 20:36:34,231 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-22 20:36:38,078 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-22 20:36:38,079 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-22 20:46:51,968 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-22 20:46:55,932 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-22 20:46:55,932 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-22 20:48:05,979 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-22 20:48:05,980 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/ask?question=Prompt%20l%C3%A0%20g%C3%AC%20&url=https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-22 20:48:05,982 |INFO| main.py.ask_question - MainThread: Received question: Prompt là gì  for URL: https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-22 20:48:07,486 |ERROR| main.py.ask_question - MainThread: Error: 'dict' object has no attribute 'page_content'
+2024-07-22 20:51:47,947 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-22 20:53:19,876 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-22 20:53:23,597 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-22 20:53:23,597 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-22 20:53:26,910 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-22 20:53:26,911 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/ask?question=Prompt%20l%C3%A0%20g%C3%AC%20&url=https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-22 20:53:26,913 |INFO| main.py.ask_question - MainThread: Received question: Prompt là gì  for URL: https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-22 20:53:28,740 |ERROR| main.py.ask_question - MainThread: Error: 'dict' object has no attribute 'page_content'
+2024-07-22 20:56:34,330 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-22 20:56:37,884 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-22 20:56:37,885 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-22 20:56:45,283 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-22 20:56:45,284 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/ask?question=Prompt%20l%C3%A0%20g%C3%AC%20&url=https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-22 20:56:45,287 |INFO| main.py.ask_question - MainThread: Received question: Prompt là gì  for URL: https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-22 20:56:47,568 |ERROR| main.py.ask_question - MainThread: Error: 'dict' object has no attribute 'page_content'
+2024-07-22 20:58:10,589 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-22 20:58:10,590 |INFO| main.py.middleware - MainThread: Method[GET]: http://localhost:8686/ask?question=Prompt%20l%C3%A0%20g%C3%AC%20&url=https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-22 21:00:22,150 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-22 21:00:27,002 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-22 21:00:27,002 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-22 21:00:29,244 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-22 21:00:29,245 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/ask?question=Prompt%20l%C3%A0%20g%C3%AC%20&url=https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-22 21:00:53,714 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-22 21:00:53,714 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/ask-question?question=Prompt%20l%C3%A0%20g%C3%AC%20&url=https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-22 21:00:53,717 |INFO| main.py.ask_question - MainThread: Received question: Prompt là gì  for URL: https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-22 21:00:59,492 |ERROR| main.py.ask_question - MainThread: Error: 'dict' object has no attribute 'page_content'
+2024-07-22 21:03:17,390 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-22 21:03:17,391 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/ask-question
+2024-07-22 21:03:48,216 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-22 21:04:20,460 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-22 21:04:23,750 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-22 21:04:23,750 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-22 21:04:37,157 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-22 21:04:37,159 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/ask-question
+2024-07-22 21:04:49,377 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-22 21:04:49,377 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/ask-question?question=Prompt%20l%C3%A0%20g%C3%AC%20&url=https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-22 21:04:49,378 |INFO| main.py.ask_question - MainThread: Received question: Prompt là gì  for URL: https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-22 21:04:50,503 |ERROR| main.py.ask_question - MainThread: Error: 'dict' object has no attribute 'page_content'
+2024-07-29 21:24:59,019 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-29 21:24:59,023 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-29 21:25:04,806 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-29 21:25:04,806 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-29 21:25:04,807 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-29 21:25:04,808 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-29 21:25:08,810 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-29 21:25:08,811 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/ask-question?question=Prompt%20l%C3%A0%20g%C3%AC%20&url=https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-29 21:25:08,813 |INFO| main.py.ask_question - MainThread: Received question: Prompt là gì  for URL: https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-29 21:25:09,448 |ERROR| main.py.ask_question - MainThread: Error: 'dict' object has no attribute 'page_content'
+2024-07-29 21:28:02,759 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-29 21:28:05,631 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-29 21:28:05,631 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-29 21:28:08,158 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-29 21:28:08,159 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/ask-question?question=Prompt%20l%C3%A0%20g%C3%AC%20&url=https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-29 21:28:08,159 |INFO| main.py.ask_question - MainThread: Received question: Prompt là gì  for URL: https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-29 21:28:12,692 |ERROR| main.py.ask_question - MainThread: Error: 'dict' object has no attribute 'page_content'
+2024-07-29 21:30:33,006 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-29 21:30:35,278 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-29 21:30:35,278 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-29 21:30:39,184 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-29 21:30:39,185 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/ask-question?question=Prompt%20l%C3%A0%20g%C3%AC%20&url=https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-29 21:30:39,185 |INFO| main.py.ask_question - MainThread: Received question: Prompt là gì  for URL: https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-29 21:30:39,916 |ERROR| main.py.ask_question - MainThread: Error: 'dict' object has no attribute 'page_content'
+2024-07-29 21:31:27,585 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-29 21:31:29,947 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-29 21:31:29,947 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-29 21:31:32,684 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-29 21:31:32,684 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/ask-question?question=Prompt%20l%C3%A0%20g%C3%AC%20&url=https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-29 21:31:32,685 |INFO| main.py.ask_question - MainThread: Received question: Prompt là gì  for URL: https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-29 21:31:33,454 |ERROR| main.py.ask_question - MainThread: Error: 'dict' object has no attribute 'page_content'
+2024-07-29 21:32:20,813 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-29 21:32:23,798 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-29 21:32:23,798 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-29 21:32:26,060 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-29 21:32:26,060 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/ask-question?question=Prompt%20l%C3%A0%20g%C3%AC%20&url=https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-29 21:32:26,061 |INFO| main.py.ask_question - MainThread: Received question: Prompt là gì  for URL: https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-29 21:32:26,411 |ERROR| main.py.ask_question - MainThread: Error: 'dict' object has no attribute 'page_content'
+2024-07-29 21:32:59,583 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-29 21:33:01,905 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-29 21:33:01,905 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-29 21:33:05,571 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-29 21:33:05,571 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/ask-question?question=Prompt%20l%C3%A0%20g%C3%AC%20&url=https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-29 21:33:05,572 |INFO| main.py.ask_question - MainThread: Received question: Prompt là gì  for URL: https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-29 21:33:07,722 |ERROR| main.py.ask_question - MainThread: Error: 'dict' object has no attribute 'page_content'
+2024-07-29 21:34:47,049 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-29 21:34:47,050 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/ask-question?question=Prompt%20l%C3%A0%20g%C3%AC%20&url=https://openai.com/research/
+2024-07-29 21:34:47,050 |INFO| main.py.ask_question - MainThread: Received question: Prompt là gì  for URL: https://openai.com/research/
+2024-07-29 21:34:47,435 |ERROR| main.py.ask_question - MainThread: Error: 'dict' object has no attribute 'page_content'
+2024-07-29 21:34:52,781 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-29 21:34:52,782 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/ask-question?question=Prompt%20l%C3%A0%20g%C3%AC%20
+2024-07-29 21:41:04,628 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-29 21:41:04,629 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/ask-question?question=Prompt%20l%C3%A0%20g%C3%AC%20&url=https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-29 21:41:04,630 |INFO| main.py.ask_question - MainThread: Received question: Prompt là gì  for URL: https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-29 21:41:06,281 |ERROR| main.py.ask_question - MainThread: Error: 'dict' object has no attribute 'page_content'
+2024-07-29 21:46:44,328 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-29 21:46:47,368 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-29 21:46:47,368 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-29 21:46:49,831 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-29 21:46:49,831 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/ask-question?question=Prompt%20l%C3%A0%20g%C3%AC%20&url=https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-29 21:46:49,832 |INFO| main.py.ask_question - MainThread: Received question: Prompt là gì  for URL: https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-29 21:46:51,262 |ERROR| main.py.ask_question - MainThread: Error: 'dict' object has no attribute 'page_content'
+2024-07-29 21:50:23,794 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-29 21:50:26,411 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-29 21:50:26,411 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-29 21:50:29,008 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-29 21:50:29,009 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/ask-question?question=Prompt%20l%C3%A0%20g%C3%AC%20&url=https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-29 21:50:29,011 |INFO| main.py.ask_question - MainThread: Received question: Prompt là gì  for URL: https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-29 21:50:29,430 |ERROR| main.py.ask_question - MainThread: Error: 'dict' object has no attribute 'page_content'
+2024-07-29 21:52:56,577 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-29 21:52:56,577 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/langchain-agent?question=Prompt%20l%C3%A0%20g%C3%AC%20
+2024-07-29 21:52:56,577 |INFO| main.py.langchainAgent - MainThread: question: Prompt là gì 
+2024-07-29 21:52:57,292 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-29 21:52:57,293 |INFO| _base_client.py._retry_request - MainThread: Retrying request to /chat/completions in 0.782777 seconds
+2024-07-29 21:52:58,472 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-29 21:52:58,473 |INFO| _base_client.py._retry_request - MainThread: Retrying request to /chat/completions in 1.591352 seconds
+2024-07-29 21:53:00,817 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-29 22:00:18,711 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-29 22:00:21,698 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-29 22:00:21,698 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-29 22:00:24,784 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-29 22:00:24,784 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/langchain-agent?question=Prompt%20l%C3%A0%20g%C3%AC%20
+2024-07-29 22:00:24,785 |INFO| main.py.langchainAgent - MainThread: question: Prompt là gì 
+2024-07-29 22:00:25,453 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-07-29 22:00:54,381 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-29 22:00:56,669 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-29 22:00:56,669 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-29 22:00:58,646 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-29 22:00:58,647 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/langchain-agent?question=Prompt%20l%C3%A0%20g%C3%AC%20
+2024-07-29 22:00:58,649 |INFO| main.py.langchainAgent - MainThread: question: Prompt là gì 
+2024-07-29 22:00:59,158 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-07-29 22:01:10,618 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-29 22:01:13,019 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-29 22:01:13,019 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-29 22:01:16,071 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-29 22:01:16,071 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/langchain-agent?question=Prompt%20l%C3%A0%20g%C3%AC%20
+2024-07-29 22:01:16,072 |INFO| main.py.langchainAgent - MainThread: question: Prompt là gì 
+2024-07-29 22:01:16,718 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-07-29 22:02:44,653 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-29 22:02:47,026 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-29 22:02:47,026 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-29 22:02:48,959 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-29 22:02:48,960 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/langchain-agent?question=Prompt%20l%C3%A0%20g%C3%AC%20
+2024-07-29 22:02:48,963 |INFO| main.py.langchainAgent - MainThread: question: Prompt là gì 
+2024-07-29 22:02:49,471 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-29 22:02:49,472 |INFO| _base_client.py._retry_request - MainThread: Retrying request to /chat/completions in 0.967240 seconds
+2024-07-29 22:02:50,817 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-29 22:02:50,818 |INFO| _base_client.py._retry_request - MainThread: Retrying request to /chat/completions in 1.963089 seconds
+2024-07-29 22:02:53,203 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-29 22:07:01,485 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-29 22:07:04,369 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-29 22:07:04,369 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-29 22:07:34,209 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-29 22:07:34,210 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/langchain-agent?question=Prompt%20l%C3%A0%20g%C3%AC%20
+2024-07-29 22:07:34,210 |INFO| main.py.langchainAgent - MainThread: question: Prompt là gì 
+2024-07-29 22:07:34,862 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-29 22:07:34,863 |INFO| _base_client.py._retry_request - MainThread: Retrying request to /chat/completions in 0.978113 seconds
+2024-07-29 22:07:36,193 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-29 22:07:36,194 |INFO| _base_client.py._retry_request - MainThread: Retrying request to /chat/completions in 1.754896 seconds
+2024-07-29 22:07:39,267 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 22:07:41,905 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-29 22:09:07,420 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-29 22:09:07,420 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/ask-question?question=Prompt%20l%C3%A0%20g%C3%AC%20&url=https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-29 22:09:07,420 |INFO| main.py.ask_question - MainThread: Received question: Prompt là gì  for URL: https://viblo.asia/p/langchain-la-gi-WR5JRBPQJGv
+2024-07-29 22:09:08,758 |ERROR| main.py.ask_question - MainThread: Error: 'dict' object has no attribute 'page_content'
+2024-07-29 22:11:07,856 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-29 22:11:07,856 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/ask-question?question=Prompt%20l%C3%A0%20g%C3%AC&url=https://platform.openai.com/playground/chat?models=gpt-4o
+2024-07-29 22:11:07,857 |INFO| main.py.ask_question - MainThread: Received question: Prompt là gì for URL: https://platform.openai.com/playground/chat?models=gpt-4o
+2024-07-29 22:11:08,170 |ERROR| main.py.ask_question - MainThread: Error: 'dict' object has no attribute 'page_content'
+2024-07-30 19:56:31,163 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-30 19:56:36,730 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-30 19:56:36,731 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-30 20:03:57,649 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-30 20:04:01,758 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-30 20:04:03,010 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-30 20:04:03,010 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-30 20:04:55,944 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-30 20:04:55,945 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686//chatbot/langchain/route?question=S%E1%BB%91%20nguy%C3%AAn%20t%E1%BB%91%20l%C3%A0%20g%C3%AC%20
+2024-07-30 20:05:03,716 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-30 20:05:03,716 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/chatbot/langchain/route?question=S%E1%BB%91%20nguy%C3%AAn%20t%E1%BB%91%20l%C3%A0%20g%C3%AC%20
+2024-07-30 20:05:06,417 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024-07-30 20:05:06,419 |INFO| _base_client.py._retry_request - AnyIO worker thread: Retrying request to /embeddings in 0.955969 seconds
+2024-07-30 20:05:07,675 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024-07-30 20:05:07,676 |INFO| _base_client.py._retry_request - AnyIO worker thread: Retrying request to /embeddings in 1.977127 seconds
+2024-07-30 20:05:09,938 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024-07-30 20:05:47,196 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-30 20:05:50,998 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-30 20:05:52,306 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-30 20:05:52,307 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-30 20:06:15,015 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-30 20:06:15,016 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/chatbot/langchain/route?question=S%E1%BB%91%20nguy%C3%AAn%20t%E1%BB%91%20l%C3%A0%20g%C3%AC%20
+2024-07-30 20:06:17,167 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024-07-30 20:06:17,168 |INFO| _base_client.py._retry_request - AnyIO worker thread: Retrying request to /embeddings in 0.882131 seconds
+2024-07-30 20:06:18,325 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024-07-30 20:06:18,327 |INFO| _base_client.py._retry_request - AnyIO worker thread: Retrying request to /embeddings in 1.545990 seconds
+2024-07-30 20:06:20,193 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024-07-30 20:07:50,947 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-30 20:07:57,831 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-30 20:07:59,071 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-30 20:07:59,071 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-30 20:08:54,732 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-30 20:08:54,733 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/chatbot/langchain/route?question=S%E1%BB%91%20nguy%C3%AAn%20t%E1%BB%91%20l%C3%A0%20g%C3%AC%20
+2024-07-30 20:08:56,416 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024-07-30 20:08:56,417 |INFO| _base_client.py._retry_request - AnyIO worker thread: Retrying request to /embeddings in 0.958743 seconds
+2024-07-30 20:08:57,947 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024-07-30 20:08:57,947 |INFO| _base_client.py._retry_request - AnyIO worker thread: Retrying request to /embeddings in 1.537183 seconds
+2024-07-30 20:09:00,403 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024-07-30 20:10:14,968 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-30 20:10:18,820 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-30 20:10:19,953 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-30 20:10:19,953 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-30 20:10:22,933 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-30 20:10:22,934 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/chatbot/langchain/route?question=S%E1%BB%91%20nguy%C3%AAn%20t%E1%BB%91%20l%C3%A0%20g%C3%AC%20
+2024-07-30 20:10:24,579 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024-07-30 20:10:24,580 |INFO| _base_client.py._retry_request - AnyIO worker thread: Retrying request to /embeddings in 0.756221 seconds
+2024-07-30 20:10:25,999 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024-07-30 20:10:26,001 |INFO| _base_client.py._retry_request - AnyIO worker thread: Retrying request to /embeddings in 1.578506 seconds
+2024-07-30 20:10:27,937 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024-07-30 20:13:27,383 |INFO| langchain_service.py.<module> - MainThread: question: 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
+2024-07-30 20:13:31,196 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-30 20:13:32,371 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-30 20:13:32,372 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-30 20:14:15,805 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-30 20:14:15,806 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/chatbot/langchain/route?question=S%E1%BB%91%20nguy%C3%AAn%20t%E1%BB%91%20l%C3%A0%20g%C3%AC%20
+2024-07-30 20:14:17,259 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024-07-30 20:14:17,261 |INFO| _base_client.py._retry_request - AnyIO worker thread: Retrying request to /embeddings in 0.845300 seconds
+2024-07-30 20:14:18,441 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024-07-30 20:14:18,442 |INFO| _base_client.py._retry_request - AnyIO worker thread: Retrying request to /embeddings in 1.712581 seconds
+2024-07-30 20:14:20,486 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024-07-30 20:25:45,462 |INFO| langchain_service.py.<module> - MainThread: question: sk-proj-VyztvUB74CZn6VQAocnDT3BlbkFJTIDph0pc3L07SjjWVqz8
+2024-07-30 20:25:50,317 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-30 20:25:53,030 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-30 20:25:53,030 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-30 20:27:59,102 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-30 20:27:59,104 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/chatbot/langchain/route?question=S%E1%BB%91%20nguy%C3%AAn%20t%E1%BB%91%20l%C3%A0%20g%C3%AC%20
+2024-07-30 20:28:04,084 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-30 20:28:06,876 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-30 20:28:09,600 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-30 20:28:56,342 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-30 20:28:56,343 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/chatbot/langchain?question=S%E1%BB%91%20nguy%C3%AAn%20t%E1%BB%91%20l%C3%A0%20g%C3%AC%20
+2024-07-30 20:29:05,854 |INFO| posthog.py.__init__ - MainThread: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-07-30 20:29:08,077 |INFO| _client.py._send_single_request - MainThread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-30 20:29:40,270 |INFO| langchain_service.py.<module> - MainThread: question: sk-proj-VyztvUB74CZn6VQAocnDT3BlbkFJTIDph0pc3L07SjjWVqz8
+2024-07-30 20:29:44,351 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-30 20:29:45,263 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-30 20:29:45,264 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-30 20:29:55,694 |INFO| langchain_service.py.<module> - MainThread: question: sk-proj-VyztvUB74CZn6VQAocnDT3BlbkFJTIDph0pc3L07SjjWVqz8
+2024-07-30 20:29:58,758 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-30 20:29:59,622 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-30 20:29:59,622 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-30 20:30:03,260 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-30 20:30:03,260 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/chatbot/langchain?question=Langchain%20l%C3%A0%20g%C3%AC%20
+2024-07-30 20:30:06,105 |INFO| posthog.py.__init__ - AnyIO worker thread: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-07-30 20:30:07,427 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-30 20:31:16,969 |INFO| langchain_service.py.<module> - MainThread: question: sk-proj-VyztvUB74CZn6VQAocnDT3BlbkFJTIDph0pc3L07SjjWVqz8
+2024-07-30 20:31:19,750 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-30 20:31:20,556 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-30 20:31:20,556 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-30 20:31:23,418 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-30 20:31:23,418 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/chatbot/langchain/route-v2?question=Langchain%20l%C3%A0%20g%C3%AC%20
+2024-07-30 20:31:23,420 |INFO| main.py.chat_agents - AnyIO worker thread: question: Langchain là gì 
+2024-07-30 20:31:24,990 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-30 20:32:23,398 |INFO| langchain_service.py.<module> - MainThread: question: sk-proj-VyztvUB74CZn6VQAocnDT3BlbkFJTIDph0pc3L07SjjWVqz8
+2024-07-30 20:32:26,085 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-30 20:32:26,899 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-30 20:32:26,899 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-30 20:32:30,691 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-30 20:32:30,692 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/chatbot/langchain/route-v2?question=Langchain%20l%C3%A0%20g%C3%AC%20
+2024-07-30 20:32:30,693 |INFO| main.py.chat_agents - AnyIO worker thread: question: Langchain là gì 
+2024-07-30 20:32:32,293 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-30 20:32:32,527 |INFO| loader.py.<module> - AnyIO worker thread: Loading faiss with AVX512 support.
+2024-07-30 20:32:32,527 |INFO| loader.py.<module> - AnyIO worker thread: Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2024-07-30 20:32:32,527 |INFO| loader.py.<module> - AnyIO worker thread: Loading faiss with AVX2 support.
+2024-07-30 20:32:32,753 |INFO| loader.py.<module> - AnyIO worker thread: Successfully loaded faiss with AVX2 support.
+2024-07-30 20:32:33,286 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-30 20:34:06,082 |INFO| langchain_service.py.<module> - MainThread: question: sk-proj-VyztvUB74CZn6VQAocnDT3BlbkFJTIDph0pc3L07SjjWVqz8
+2024-07-30 20:34:08,874 |WARNING| user_agent.py.get_user_agent - MainThread: USER_AGENT environment variable not set, consider setting it to identify your requests.
+2024-07-30 20:34:09,885 |INFO| main.py.<module> - MainThread: SUCCESS
+2024-07-30 20:34:09,885 |INFO| main.py.<module> - MainThread: LangChain-Agents port: 8686
+2024-07-30 20:34:17,505 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-30 20:34:17,505 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/chatbot/langchain/route-v2?question=Langchain%20l%C3%A0%20g%C3%AC%20
+2024-07-30 20:34:17,507 |INFO| main.py.chat_agents - AnyIO worker thread: question: Langchain là gì 
+2024-07-30 20:34:20,858 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-30 20:34:21,066 |INFO| loader.py.<module> - AnyIO worker thread: Loading faiss with AVX512 support.
+2024-07-30 20:34:21,066 |INFO| loader.py.<module> - AnyIO worker thread: Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2024-07-30 20:34:21,066 |INFO| loader.py.<module> - AnyIO worker thread: Loading faiss with AVX2 support.
+2024-07-30 20:34:21,286 |INFO| loader.py.<module> - AnyIO worker thread: Successfully loaded faiss with AVX2 support.
+2024-07-30 20:34:21,632 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-30 20:34:26,031 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-30 20:34:41,017 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-30 20:36:14,491 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-30 20:36:14,492 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/chatbot/langchain/route-v2?question=th%E1%BB%9Di%20ti%E1%BA%BFt%20h%C3%B4m%20nay%20
+2024-07-30 20:36:17,847 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-30 20:36:18,361 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-30 20:36:23,233 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-30 20:36:32,751 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-30 20:36:32,752 |INFO| main.py.chat_agents - AnyIO worker thread: response : The weather in Hanoi, Vietnam today is expected to have thunderstorms and showers, with temperatures reaching as high as 87-90 °F. There is a high chance of precipitation and winds are light to moderate, with possible gusts up to 17 mph.
+2024-07-30 20:40:25,969 |INFO| main.py.middleware - MainThread: 
+
+----------------------------------
+2024-07-30 20:40:25,969 |INFO| main.py.middleware - MainThread: Method[POST]: http://localhost:8686/chatbot/langchain/route-v2?question=%C4%90%E1%BB%99%20hot%20%20c%E1%BB%A7a%20langchain%20
+2024-07-30 20:40:29,056 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-30 20:40:29,752 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-07-30 20:40:33,571 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-30 20:40:42,963 |INFO| _client.py._send_single_request - AnyIO worker thread: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-30 20:40:42,966 |INFO| main.py.chat_agents - AnyIO worker thread: response : Langchain is quite popular, especially in the open-source community. It has over 41,900 stars on GitHub and over 800 contributors. It's used to build applications using large language models, like chatbots or personal assistants.

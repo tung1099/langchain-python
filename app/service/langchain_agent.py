@@ -6,7 +6,7 @@ from langchain_openai import ChatOpenAI
 from config import Config
 
 
-chat = ChatOpenAI(model="gpt-4", temperature=0.1)
+chat = ChatOpenAI(model="gpt-3.5-turbo", temperature=0.1, api_key="sk-proj-VyztvUB74CZn6VQAocnDT3BlbkFJTIDph0pc3L07SjjWVqz8")
 
 prompt = hub.pull("hwchase17/openai-functions-agent")
 
